@@ -1,4 +1,4 @@
-# Imperial-ML-AI-Capstone_Project
+# Imperial-ML-AI-Capstone-Project
 
 A Black Box Optimisation based on NeurIPS 2020
 
